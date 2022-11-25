@@ -5,7 +5,7 @@ This repository contains multiple coding exercises and programs I've made in my 
 
 Folders:
 
-Academics - contains software exercises from my majors in Computer Engineering at the University of the Philippines - Diliman
+Academics - contains some software exercises from my majors in Computer Engineering at the University of the Philippines - Diliman
 
 Certificates - contains certificates I earned through online courses and bootcamps
 
